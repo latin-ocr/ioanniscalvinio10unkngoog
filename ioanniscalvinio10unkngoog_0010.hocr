@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio10unkngoog_0010.png"; bbox 0 0 4825 6175; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1787 4078 1867 4201">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1787 4078 1867 4201">
+     <span class='ocr_line' id='line_1_1' title="bbox 1787 4078 1867 4201; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1787 4078 1867 4201; x_wconf 42' lang='grc' dir='ltr'><em>ἷκε)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1884 4122 2688 4361">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1884 4122 2688 4361">
+     <span class='ocr_line' id='line_1_2' title="bbox 1884 4122 2606 4255; baseline 0 -52"><span class='ocrx_word' id='word_1_2' title='bbox 1884 4124 2011 4203; x_wconf 52' lang='lat'><em>62⁶⁰(</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2082 4122 2323 4255; x_wconf 38' lang='lat' dir='ltr'><em>lissa</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2378 4176 2432 4203; x_wconf 51' lang='grc' dir='ltr'><em>*Ἴ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2471 4172 2606 4222; x_wconf 60' lang='lat' dir='ltr'><em>ss*</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2018 4166 2688 4361; baseline -0.009 -135"><span class='ocrx_word' id='word_1_6' title='bbox 2018 4280 2063 4318; x_wconf 39' lang='lat' dir='ltr'><em>d</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2175 4208 2439 4361; x_wconf 57' lang='lat' dir='ltr'><em>ss.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2555 4166 2688 4251; x_wconf 62' lang='lat' dir='ltr'><em>se.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio10unkngoog_0013.png"; bbox 0 0 4825 6175; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1812 2177 2689 2302">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1812 2177 2689 2302">
+     <span class='ocr_line' id='line_1_1' title="bbox 1812 2177 2689 2302; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1812 2179 2160 2299; x_wconf 81' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2175 2177 2689 2302; x_wconf 86' lang='lat' dir='ltr'><strong>SAURI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 837 2627 3824 2798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 837 2551 3824 2798">
+     <span class='ocr_line' id='line_1_2' title="bbox 837 2627 3824 2798; baseline 0.006 -17"><span class='ocrx_word' id='word_1_3' title='bbox 837 2627 2133 2781; x_wconf 78' lang='lat' dir='ltr'>EPISTOLICI</span> <span class='ocrx_word' id='word_1_4' title='bbox 2271 2627 3687 2785; x_wconf 77' lang='lat' dir='ltr'><strong>CALVINIANI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3815 2791 3824 2798; x_wconf 82' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1936 3100 2583 3189">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1936 3100 2583 3189">
+     <span class='ocr_line' id='line_1_3' title="bbox 1936 3100 2583 3189; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1936 3100 2358 3189; x_wconf 77' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 2420 3101 2583 3187; x_wconf 88' lang='lat' dir='ltr'><strong>III.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 995 3413 3524 3503">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 995 3413 3524 3503">
+     <span class='ocr_line' id='line_1_4' title="bbox 995 3413 3524 3503; baseline 0.003 -19"><span class='ocrx_word' id='word_1_8' title='bbox 995 3413 1521 3485; x_wconf 69' lang='lat' dir='ltr'>EPIS&#39;POLAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1564 3421 1694 3486; x_wconf 73' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1736 3421 2049 3491; x_wconf 74' lang='lat' dir='ltr'><strong>ANNOS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2100 3425 2521 3488; x_wconf 73' lang='lat'>1645—1548</span> <span class='ocrx_word' id='word_1_12' title='bbox 2563 3420 2813 3503; x_wconf 74' lang='lat' dir='ltr'><strong>(Ilm.)</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2851 3420 3524 3492; x_wconf 73' lang='lat' dir='ltr'><strong>PERTINEN&#39;PRS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1859 3920 2550 3930">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1859 3920 2550 3930">
+     <span class='ocr_line' id='line_1_5' title="bbox 1859 3920 2550 3930; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 1859 3920 2550 3930; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
